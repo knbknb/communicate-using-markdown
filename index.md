@@ -14,3 +14,10 @@ It was a dark and stormy night....
 git --version
 git status
 ```
+
+# A task list
+
+- [x] Learn svn
+- [x] Learn git
+- [ ] Learn github
+- [ ] Re-learn svn
