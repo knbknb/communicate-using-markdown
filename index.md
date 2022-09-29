@@ -4,6 +4,13 @@
 
 It was a dark and stormy night....
 
-## Place of birth
+## Witness of birth
 
 ![Image of XXX](https://octodex.github.com/images/agendacat.png)
+
+## Some code
+
+```sh
+git --version
+git status
+```
